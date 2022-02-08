@@ -1,0 +1,24 @@
+{
+    "name": "小梁",
+    "short_name": "小梁",
+    "display": "standalone",
+    "start_url": "index.html",
+    "theme_color": "#2196f3",
+    "background_color": "#313131",
+    "icons": [
+        {
+            "src": "./images/panda-waving.png",
+            "sizes": "144x144",
+            "type": "image/webp"
+        }
+    ],
+    "related_applications": [
+        {
+            "platform": "web"
+        },
+        {
+            "platform": "play",
+            "url": "https://play.google.com/store/apps/details?id=cheeaun.hackerweb"
+        }
+    ]
+}
